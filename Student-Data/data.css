@@ -1,0 +1,43 @@
+.allInput{
+    width: 80%;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.allSpan{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#submitData{
+    width: 80%;
+    background-color: rgb(72, 161, 161);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#submitData:hover{
+    background-color:rgb(141, 175, 175);
+  }
+  body{
+      background-color: rgb(108, 169, 204);
+  }
+  #studentData{
+      background-color: white;
+      /* width: 80%;; */
+      margin-top: 10%;
+      padding: 16px;
+      /* margin-right: 5%; */
+  }
+  #divForInput{
+      margin-left: 10%;
+      padding-top: 2%;
+      padding-bottom: 2%;
+      
+  }
